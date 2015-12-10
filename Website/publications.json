@@ -1,0 +1,689 @@
+{
+  "publications": [
+    {
+      "title": "Selecting Research Methods for Studying a Participatory Culture in Software Development: Keynote",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        }
+      ],
+      "venue": {
+        "format": "Keynote Extended Abstract",
+        "conference": "19th International Conference on Evaluation and Assessment",
+        "abbrv": "<a href=\"http://emse.nju.edu.cn/ease2015/program/keynote-speakers/\">EASE 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-EASE2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2745802.2747957",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "The Emergence of GitHub as a Collaborative Platform for Education",
+      "authors": [
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Joseph",
+          "last": "Feliciano"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Yiyun",
+          "last": "Zhao"
+        },
+        {
+          "first": "Weiliang",
+          "last": "Wang"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "18th ACM conference on Computer-Supported Cooperative Work and Social Computing",
+        "abbrv": "<a href=\"http://cscw.acm.org/2015/\">CSCW 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/zagalsky-CSCW2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2675133.2675284",
+          "icon": "fa fa-book"
+        },
+        {
+          "name": "Slides",
+          "url": "https://speakerdeck.com/alexeyza/the-emergence-of-github-as-a-collaborative-platform-for-education",
+          "icon": "fa fa-file-powerpoint-o"
+        },
+        {
+          "name": "Blog",
+          "url": "/2015/09/10/embracing-participatory-culture/",
+          "icon": "fa fa-rss-square"
+        }
+      ]
+    },
+    {
+      "title": "Regulation as an Enabler for Collaborative Software Development",
+      "authors": [
+        {
+          "first": "Maryi",
+          "last": "Arciniegas-Mendez"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Allyson",
+          "last": "F. Hadwin"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "8th International Workshop on Cooperative Human Aspects of Software Engineering",
+        "abbrv": "<a href=\"http://www.chaseresearch.org/workshops/chase2015\">CHASE 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/arcniegas-mendez-CHASE2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/CHASE.2015.29",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Towards Understanding Digital Information Discovery and Curation",
+      "authors": [
+        {
+          "first": "Elena",
+          "last": "Voyloshnikova"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "24th Annual International Conference on Computer Science and Software Engineering",
+        "abbrv": "<a href=\"https://www-927.ibm.com/ibm/cas/cascon/\">CASCON 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/voyloshnikova-CASCON2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "The (R) Evolution of social media in software engineering",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Fernando",
+          "last": "Figueira Filho"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Future of Software Engineering track of <a href=\"http://2014.icse-conferences.org/\">ICSE 2014</a>",
+        "abbrv": "<a href=\"http://2014.icse-conferences.org/fose\">FOSE 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-FOSE2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2593882.2593887",
+          "icon": "fa fa-book"
+        },
+        {
+          "name": "Slides",
+          "url": "http://www.slideshare.net/mastorey/icse2014-fose-social-media",
+          "icon": "fa fa-file-powerpoint-o"
+        }
+      ]
+    },
+    {
+      "title": "An Exploratory Study of the Adoption of Mobile Development Platforms by Software Engineers",
+      "authors": [
+        {
+          "first": "Müller",
+          "last": "Miranda"
+        },
+        {
+          "first": "Renato",
+          "last": "Pina"
+        },
+        {
+          "first": "Cleidson",
+          "last": "De Souza"
+        },
+        {
+          "first": "Fernando",
+          "last": "Figueira Filho"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "1st International Conference on Mobile Software Engineering and Systems",
+        "abbrv": "<a href=\"http://mobilesoftconf.org/2014/\">MOBILESoft 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/miranda-MOBILESOFT2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2593902.2593915",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "The Promises and Perils of Mining GitHub",
+      "authors": [
+        {
+          "first": "Eirini",
+          "last": "Kalliamvakou"
+        },
+        {
+          "first": "Georgios",
+          "last": "Gousios"
+        },
+        {
+          "first": "Kelly",
+          "last": "Blincoe"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Daniela",
+          "last": "Damian"
+        },
+        {
+          "first": "Daniel",
+          "last": "German"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "11th Working Conference on Mining Software Repositories",
+        "abbrv": "<a href=\"http://2014.msrconf.org/\">MSR 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/kalliamvakou-MSR2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2597073.2597074",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering at the Speed of Light: How Developers Stay Current Using Twitter",
+      "authors": [
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Fernando",
+          "last": "Figueira Filho"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "36th International Conference on Software Engineering",
+        "abbrv": "<a href=\"http://2014.icse-conferences.org/\">ICSE 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/singer-ICSE2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2568225.2568305",
+          "icon": "fa fa-book"
+        },
+        {
+          "name": "Slides",
+          "url": "http://www.slideshare.net/mastorey/how-developers-stay-current-using-twitter",
+          "icon": "fa fa-file-powerpoint-o"
+        },
+        {
+          "name": "Blog",
+          "url": "http://blog.leif.me/2013/11/how-software-developers-use-twitter/",
+          "icon": "fa fa-rss-square"
+        }
+      ]
+    },
+    {
+      "title": "Reconstructing Program Memory State from Multi-Gigabyte Instruction Traces to Support Interactive Analysis",
+      "authors": [
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Patrick",
+          "last": "Gorman"
+        },
+        {
+          "first": "Eric",
+          "last": "Verbeek"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Martin",
+          "last": "Salois"
+        },
+        {
+          "first": "Frederic",
+          "last": "Painchaud"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "20th Working Conference on Reverse Engineering",
+        "abbrv": "<a href=\"http://wcre.wikidot.com/2013\">WCRE 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/WCRE.2013.6671279",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "ATLANTIS - Assembly Trace Analysis Environment",
+      "authors": [
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Laura",
+          "last": "Chan"
+        },
+        {
+          "first": "Martin",
+          "last": "Salois"
+        },
+        {
+          "first": "Frederic",
+          "last": "Painchaud"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "19th Working Conference on Reverse Engineering",
+        "abbrv": "<a href=\"https://dibt.unimol.it/wcre2012/\">WCRE 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/WCRE.2012.62",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+
+    {
+      "title": "Indented Tree or Graph? A Usability Study of Ontology Visualization Techniques in the Context of Mapping Evaluation",
+      "authors": [
+        {
+          "first": "Bo",
+          "last": "Fu"
+        },
+        {
+          "first": "Natalya",
+          "last": "F. Noy"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "12th International Semantic Web Conference",
+        "abbrv": "<a href=\"http://iswc2013.semanticweb.org/\">ISWC 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/fu-ISWC2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1007/978-3-642-41335-3_8",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Strategies for Avoiding Text Fixture Smells during Software Evolution",
+      "authors": [
+        {
+          "first": "Michaela",
+          "last": "Greiler"
+        },
+        {
+          "first": "Andy",
+          "last": "Zaidman"
+        },
+        {
+          "first": "Arie",
+          "last": "van Deursen"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "10th Working Conference on Mining Software Repositories",
+        "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/greiler-MSR2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/MSR.2013.6624053",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Fixing the ‘out of sight out of mind’ problem – One Year of Mood Based Microblogging in a Distributed Software Team",
+      "authors": [
+        {
+          "first": "Kevin",
+          "last": "Dullemond"
+        },
+        {
+          "first": "Ben",
+          "last": "Van Gameren"
+        },
+        {
+          "first": "Arie",
+          "last": "van Deursen"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "10th Working Conference on Mining Software Repositories",
+        "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/dullemond-MSR2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "A Study of Innovation Diffusion Through Link Sharing on Stack Overflow",
+      "authors": [
+        {
+          "first": "Carlos",
+          "last": "Gomez"
+        },
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "10th Working Conference on Mining Software Repositories",
+        "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/gomez-MSR2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing the Friendliness of Exchanges in an Online Software Developer Community",
+      "authors": [
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Carlos",
+          "last": "Gomez"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "6th International Workshop on Cooperative and Human Aspects of Software Engineering",
+        "abbrv": "<a href=\"http://www.chaseresearch.org/workshops/chase2013/\">CHASE 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/cleary-CHASE2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/CHASE.2013.6614756",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Building Test Suites in Social Coding Sites by Leveraging Drive-By Commits",
+      "authors": [
+        {
+          "first": "Raphael",
+          "last": "Pham"
+        },
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Kurt",
+          "last": "Schneider"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "New Ideas and Emerging Results track of <a href=\"http://2013.icse-conferences.org/\">ICSE 2013</a>",
+        "abbrv": "<a href=\"http://2013.icse-conferences.org/content/new-ideas-and-emerging-results-nier\">NIER 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/pham-NIER2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Mutual Assessment in the Social Programmer Ecosystem: An Empirical Investigation of Developer Profile Aggregators",
+      "authors": [
+        {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Fernando",
+          "last": "Figueira Filho"
+        },
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Kurt",
+          "last": "Schneider"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "16th ACM Conference on Computer Supported Cooperative Work and Social Computing",
+        "abbrv": "<a href=\"http://cscw.acm.org/2013/\">CSCW 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/singer-CSCW2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2441776.2441791",
+          "icon": "fa fa-book"
+        }
+      ]
+    }
+  ]
+}
