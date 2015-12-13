@@ -383,49 +383,6 @@
         }
       ]
     },
-    {
-      "title": "ATLANTIS - Assembly Trace Analysis Environment",
-      "authors": [
-        {
-          "first": "Brendan",
-          "last": "Cleary"
-        },
-        {
-          "first": "Margaret-Anne",
-          "last": "Storey"
-        },
-        {
-          "first": "Laura",
-          "last": "Chan"
-        },
-        {
-          "first": "Martin",
-          "last": "Salois"
-        },
-        {
-          "first": "Frederic",
-          "last": "Painchaud"
-        }
-      ],
-      "venue": {
-        "format": "",
-        "conference": "19th Working Conference on Reverse Engineering",
-        "abbrv": "<a href=\"https://dibt.unimol.it/wcre2012/\">WCRE 2012</a>"
-      },
-      "year": "2012",
-      "links": [
-        {
-          "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2012.pdf",
-          "icon": "fa fa-file-pdf-o"
-        },
-        {
-          "name": "DOI",
-          "url": "http://dx.doi.org/10.1109/WCRE.2012.62",
-          "icon": "fa fa-book"
-        }
-      ]
-    },
 
     {
       "title": "Indented Tree or Graph? A Usability Study of Ontology Visualization Techniques in the Context of Mapping Evaluation",
@@ -681,6 +638,50 @@
         {
           "name": "DOI",
           "url": "http://dx.doi.org/10.1145/2441776.2441791",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+
+    {
+      "title": "ATLANTIS - Assembly Trace Analysis Environment",
+      "authors": [
+        {
+          "first": "Brendan",
+          "last": "Cleary"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Laura",
+          "last": "Chan"
+        },
+        {
+          "first": "Martin",
+          "last": "Salois"
+        },
+        {
+          "first": "Frederic",
+          "last": "Painchaud"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "19th Working Conference on Reverse Engineering",
+        "abbrv": "<a href=\"https://dibt.unimol.it/wcre2012/\">WCRE 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/WCRE.2012.62",
           "icon": "fa fa-book"
         }
       ]
