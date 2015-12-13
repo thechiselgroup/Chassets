@@ -1,0 +1,540 @@
+{
+  "url":"https://cdn.rawgit.com/thechiselgroup/Chassets/master/Brand/Logo/",
+  "logos": [
+    {
+      "title": "Block",
+      "token": "block",
+      "allow_greyscale":true,
+      "allow_background":false,
+      "tile":false,
+      "preview_token":"SVG/chisel_logo_block_color_square.svg",
+      "description": "For use anywhere the brand can fill a space or be represented as a square (e.g. profile images on websites, stickers).",
+      "styles":[
+        {
+          "title":"Greyscale",
+          "token":"grey",
+          "description": "<span class=\"text-muted\">(Greyscale)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title":"Color",
+          "token":"color",
+          "description": "<span class=\"text-primary\">(Color)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Flat",
+      "token": "flat",
+      "allow_greyscale":true,
+      "allow_background":true,
+      "tile":"tile-light",
+      "preview_token":"SVG/chisel_logo_flat_color_square.svg",
+      "description": "For use on light surfaces and backgrounds where the backdrop cannot be filled with the brand color (e.g. decals, stickers).",
+      "styles":[
+        {
+          "title":"Greyscale",
+          "token":"grey",
+          "description": "<span class=\"text-muted\">(Greyscale)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                },
+                {
+                  "title": "Tight",
+                  "token": "tight"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title":"Color",
+          "token":"color",
+          "description": "<span class=\"text-primary\">(Color)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                },
+                {
+                  "title": "Tight",
+                  "token": "tight"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "White",
+      "token": "punch",
+      "allow_greyscale":true,
+      "allow_background":true,
+      "tile":"tile tile-dark",
+      "preview_token":"SVG/chisel_logo_punch_color_square.svg",
+      "description": "For use on dark surfaces and backgrounds that do not allow for the brand color (e.g. darkened images).",
+      "styles":[
+        {
+          "title":"Greyscale",
+          "token":"grey",
+          "description": "<span class=\"text-muted\">(Greyscale)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                },
+                {
+                  "title": "Tight",
+                  "token": "tight"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title":"Color",
+          "token":"color",
+          "description": "<span class=\"text-primary\">(Color)</span>",
+          "downloads": [
+            {
+              "title": "SVG",
+              "extension": "svg",
+              "directory": "SVG/",
+              "icon": "fa fa-file-code-o",
+              "forms": [
+                {
+                  "title": "Square",
+                  "token": "square"
+                },
+                {
+                  "title": "Rectangle",
+                  "token": "rect"
+                },
+                {
+                  "title": "Tight",
+                  "token": "tight"
+                }
+              ]
+            },
+            {
+              "title": "PNG",
+              "extension": "png",
+              "directory": "PNG/",
+              "icon": "fa fa-file-image-o",
+              "sizes": [
+                {
+                  "title": "Large",
+                  "directory": "lg/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Medium",
+                  "directory": "md/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                },
+                {
+                  "title": "Small",
+                  "directory": "sm/",
+                  "forms": [
+                    {
+                      "title": "Square",
+                      "token": "square"
+                    },
+                    {
+                      "title": "Rectangle",
+                      "token": "rect"
+                    },
+                    {
+                      "title": "Tight",
+                      "token": "tight"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
