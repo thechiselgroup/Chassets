@@ -1,2 +1,3 @@
-# Chassets
-Chisel Assets for the Website and Brand
+# Chisel Assets
+
+This repository contains Chisel Assets including files for the website and the Logo files.
