@@ -158,6 +158,72 @@
       ]
     },
     {
+      "title": "Towards a Collaborative Learning Platform: The Use of GitHub in Computer Science and Software Engineering Courses",
+      "authors": [
+        {
+          "first": "Noel",
+          "last": "Feliciano"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Feliciano_Joseph_MSc_2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Code, Camera, Action!: How Software Developers Document and Share Program Knowledge Using YouTube",
+      "authors": [
+        {
+          "first": "Laura",
+          "last": "Macleod"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/MacLeod_Laura_MSc_2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "A Conceptual Framework for Evaluating and Designing Information Discovery and Curation Tools",
+      "authors": [
+        {
+          "first": "Elena",
+          "last": "Voyloshnikova"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Voyloshnikova_Elena_MSc_2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
       "title": "Towards Understanding Digital Information Discovery and Curation",
       "authors": [
         {
@@ -363,6 +429,28 @@
           "name": "Blog",
           "url": "http://blog.leif.me/2013/11/how-software-developers-use-twitter/",
           "icon": "fa fa-rss-square"
+        }
+      ]
+    },
+    {
+      "title": "Identifying Critical Skills for the Technical Workplace",
+      "authors": [
+        {
+          "first": "David",
+          "last": "Rusk"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Project, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2014</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Rusk_David_MSc_2014.pdf",
+          "icon": "fa fa-file-pdf-o"
         }
       ]
     },
@@ -672,7 +760,28 @@
         }
       ]
     },
-
+    {
+      "title": "Investigating Software Reconnaissance as a Technique to Support Feature Location and Program Analysis Tasks Using Sequence Diagrams",
+      "authors": [
+        {
+          "first": "Sean",
+          "last": "Stevenson"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Stevenson_Sean_MSc_2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
     {
       "title": "ATLANTIS - Assembly Trace Analysis Environment",
       "authors": [
@@ -713,6 +822,270 @@
           "name": "DOI",
           "url": "http://dx.doi.org/10.1109/WCRE.2012.62",
           "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "User Interfaces Supporting Information Visualization Novices in Visualization Construction",
+      "authors": [
+        {
+          "first": "Lars",
+          "last": "Grammel"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Grammel_Lars_PhD_2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "The Role of Social Media Artifacts in Collaborative Software Development",
+      "authors": [
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Treude_Christoph_PhD_2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Informing the Design of Mobile Wayfinding Software for Users with Acquired Brain Injury",
+      "authors": [
+        {
+          "first": "Nathanael",
+          "last": "Kuipers"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Kuipers_Nathanael_MS_2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "An investigation of the Socio-Technical Requirements for Inclusive Health Information Systems: A Case Study of a New Era in Disease Classification",
+      "authors": [
+        {
+          "first": "Gargi",
+          "last": "Bougie"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2012</a>"
+      },
+      "year": "2012",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Bougie_Gargi_MSc_2012.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Open Source Software Peer Review: Review Processes, Parameters and Statistical Models, and Underlying Behaviours and Mechanisms",
+      "authors": [
+        {
+          "first": "Peter",
+          "last": "Rigby"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2011</a>"
+      },
+      "year": "2011",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Rigby_Peter_PhD_2011.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Improving The Scalability of Tools Incorporating Sequence Diagram Visualizations of Large Execution Traces",
+      "authors": [
+        {
+          "first": "Del",
+          "last": "Myers"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2011</a>"
+      },
+      "year": "2011",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Myers_Del_MSc_2011.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Human Communication Channels in Distributed, Artifact-Centric, Scientific Collaboration",
+      "authors": [
+        {
+          "first": "Brian",
+          "last": "Corrie"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2010</a>"
+      },
+      "year": "2010",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Corrie_Brian_PhD_2010.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Visualization for Seeking and Comparing Clinical Trials",
+      "authors": [
+        {
+          "first": "Maria-Elena",
+          "last": "Hernandez"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Hernandez_Maria_PhD_2009.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Inline source code exploration",
+      "authors": [
+        {
+          "first": "Michael",
+          "last": "Desmond"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Desmond_Michael_PhD_2009.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Cognitive support for semi-automatic ontology mapping",
+      "authors": [
+        {
+          "first": "Sean",
+          "last": "Falconer"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Falconer_Sean_PhD_2009.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Model Driven Visualization: Towards a Model Driven Engineering Approach for Information Visualization",
+      "authors": [
+        {
+          "first": "Robert Ian",
+          "last": "Bull"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2008</a>"
+      },
+      "year": "2008",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Bull_Robert_Ian_PhD_2008.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Youth as Nexus: A Networked Perspective. Understanding How Information and Communication Technologies (ICT) Matter to Youth",
+      "authors": [
+        {
+          "first": "Mechthild",
+          "last": "Maczewski"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Dissertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2007</a>"
+      },
+      "year": "2007",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Maczewski_Mechthild_PhD_2007.pdf",
+          "icon": "fa fa-file-pdf-o"
         }
       ]
     }
