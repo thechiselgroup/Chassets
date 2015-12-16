@@ -1,5 +1,35 @@
 {
   "publications": [
+  {
+      "title": "Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective",
+      "authors": [
+        {
+          "first": "Georgios",
+          "last": "Gousios"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alberto",
+          "last": "Bacchelli"
+        }
+      ],
+      "venue": {
+        "format": "To appear",
+        "conference": "38th International Conference on Software Engineering",
+        "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/gousios-ICSE2016.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
     {
       "title": "Selecting Research Methods for Studying a Participatory Culture in Software Development: Keynote",
       "authors": [
