@@ -27,6 +27,97 @@
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/pubs/gousios-ICSE2016.pdf",
           "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Code, camera, action: How software developers document and share program knowledge using YouTube",
+      "authors": [
+        {
+          "first": "Laura",
+          "last": "MacLeod"
+        },
+        {
+          "first": "Andreas",
+          "last": "Bergen"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "23rd International Conference on Program Comprehension",
+        "abbrv": "<a href=\"https://dibt.unimol.it/ICPC15/Home.html\">ICPC 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/macleod-ICPC2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Roundtable: The Future of Software Engineering for Internet Computing",
+      "authors": [
+        {
+          "first": "Jian",
+          "last": "Lü"
+        },
+        {
+          "first": "David S.",
+          "last": "Rosenblum"
+        },
+        {
+          "first": "Tevfik",
+          "last": "Bultan"
+        },
+        {
+          "first": "Valerie",
+          "last": "Issarny"
+        },
+        {
+          "first": "Schahram",
+          "last": "Dustdar"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Dongmei",
+          "last": "Zhang"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE Software",
+        "abbrv": "<a href=\"http://www.computer.org/web/computingnow/software\">2015, Vol. 32, Issue 1</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/roundtable-IEEESoft2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/MS.2015.15",
+          "icon": "fa fa-book"
         }
       ]
     },
@@ -246,6 +337,79 @@
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/pubs/voyloshnikova-CASCON2014.pdf",
           "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Work practices and challenges in pull-based development: the integrator's perspective",
+      "authors": [
+        {
+          "first": "Georgios",
+          "last": "Gousios"
+        },
+        {
+          "first": "Andy",
+          "last": "Zaidman"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Arie",
+          "last": "van Deursen"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Delft University of Technology Technical Report Series",
+        "abbrv": "<a href=\"http://repository.tudelft.nl/view/ir/uuid:757f9888-abf4-4dd5-a734-d5280e189a67/\">TUD-SERG-2014-013</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/gousios-TechReport2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory",
+      "authors": [
+        {
+          "first": "Peter C.",
+          "last": "Rigby"
+        },
+        {
+          "first": "Daniel M.",
+          "last": "German"
+        },
+        {
+          "first": "Laura",
+          "last": "Cowen"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "ACM Transactions on Software Engineering and Methodology",
+        "abbrv": "<a href=\"http://tosem.acm.org/\">2014, Vol. 23, Issue 4</a>"
+      },
+      "year": "2014",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/rigby-TOESM2014.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2594458",
+          "icon": "fa fa-book"
         }
       ]
     },
@@ -914,6 +1078,37 @@
       ]
     },
     {
+      "title": "Focusing on Execution Traces Using Diver",
+      "authors": [
+        {
+          "first": "Del",
+          "last": "Myers"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "18th Working Conference on Reverse Engineering",
+        "abbrv": "<a href=\"http://www.cs.wm.edu/semeru/wcre2011/\">WCRE 2011</a>"
+      },
+      "year": "2011",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/myers-WCRE2011.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/WCRE.2011.66",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
       "title": "Understanding Open Source Software Peer Review: Review Processes, Parameters and Statistical Models, and Underlying Behaviours and Mechanisms",
       "authors": [
         {
@@ -954,6 +1149,72 @@
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/theses/Myers_Del_MSc_2011.pdf",
           "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+     {
+      "title": "Using Dynamic Analysis to Create Trace-focused User Interfaces for IDEs",
+      "authors": [
+        {
+          "first": "Del",
+          "last": "Myers"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "18th International Symposium on Foundations of Software Engineering",
+        "abbrv": "<a href=\"http://fse18.cse.wustl.edu/\">FSE 2010</a>"
+      },
+      "year": "2010",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/myers-FSE2010.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/1882291.1882351",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+    {
+      "title": "Utilizing Debug Information to Compact Loops in Large Program Traces",
+      "authors": [
+        {
+          "first": "Del",
+          "last": "Myers"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Martin",
+          "last": "Salois"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "14th European Conference on Software Maintenance and Reengineering",
+        "abbrv": "<a href=\"http://www.sait.escet.urjc.es/csmr2010/\">CSMR 2010</a>"
+      },
+      "year": "2010",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/myers-CSMR2010.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/CSMR.2010.19",
+          "icon": "fa fa-book"
         }
       ]
     },
@@ -1063,6 +1324,40 @@
         {
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/theses/Bull_Robert_Ian_PhD_2008.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
+      "title": "Working with Monster Traces: Building a Scalable, Usable, Sequence Viewer",
+      "authors": [
+        {
+          "first": "Chris",
+          "last": "Bennett"
+        },
+        {
+          "first": "Del",
+          "last": "Myers"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Daniel",
+          "last": "German"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "3rd International Workshop on Program Comprehension Through Dynamic Analysis",
+        "abbrv": "<a href=\"http://swerl.tudelft.nl/bin/view/Main/PCODA2007\">PCODA 2007</a>"
+      },
+      "year": "2007",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/bennett-PCODA2007.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
