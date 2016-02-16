@@ -1,5 +1,40 @@
 {
   "publications": [
+    {
+      "title": "Student Experiences Using GitHub in Software Engineering Courses: A Case Study",
+      "authors": [
+        {
+          "first": "Joseph",
+          "last": "Feliciano"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "To appear",
+        "conference": "38th International Conference on Software Engineering",
+        "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/feliciano-ICSE2016.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
   {
       "title": "Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective",
       "authors": [
@@ -32,6 +67,28 @@
           "name": "DOI",
           "url": "http://dx.doi.org",
           "icon": "fa fa-book"
+        }
+      ]
+    },
+          {
+      "title": "Knowledge Curation in a Developer Community: A Study of Stack Overflow and Mailing Lists",
+      "authors": [
+        {
+          "first": "Carlos",
+          "last": "Gomez Teshima"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/theses/Gomez_Carlos_MSc_2015.pdf",
+          "icon": "fa fa-file-pdf-o"
         }
       ]
     },
@@ -252,7 +309,7 @@
       "title": "Towards a Collaborative Learning Platform: The Use of GitHub in Computer Science and Software Engineering Courses",
       "authors": [
         {
-          "first": "Noel",
+          "first": "Joseph",
           "last": "Feliciano"
         }
       ],
