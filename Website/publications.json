@@ -1,5 +1,48 @@
 {
   "publications": [
+   {
+      "title": "How the R Community Creates and Curates Knowledge: A Comparative Study of Stack Overflow and Mailing Lists",
+      "authors": [
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Carlos",
+          "last": "Gómez Teshima"
+        },
+        {
+          "first": "Daniel M.",
+          "last": "German"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Germán",
+          "last": "Poo-Caamaño"
+        }
+      ],
+      "venue": {
+        "format": "To appear",
+        "conference": "13th International Conference on Mining Software Repositories",
+        "abbrv": "<a href=\"http://2016.msrconf.org/\">MSR 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/zagalsky-MSR2016.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
     {
       "title": "Student Experiences Using GitHub in Software Engineering Courses: A Case Study",
       "authors": [
@@ -14,7 +57,7 @@
         {
           "first": "Margaret-Anne",
           "last": "Storey"
-        }
+        }   
       ],
       "venue": {
         "format": "To appear",
@@ -75,7 +118,7 @@
       "authors": [
         {
           "first": "Carlos",
-          "last": "Gomez Teshima"
+          "last": "Gómez Teshima"
         }
       ],
       "venue": {
@@ -836,7 +879,7 @@
       "authors": [
         {
           "first": "Carlos",
-          "last": "Gomez"
+          "last": "Gómez Teshima"
         },
         {
           "first": "Brendan",
@@ -874,7 +917,7 @@
         },
         {
           "first": "Carlos",
-          "last": "Gomez"
+          "last": "Gómez Teshima"
         },
         {
           "first": "Leif",
