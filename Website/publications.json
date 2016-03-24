@@ -38,7 +38,7 @@
         },
         {
           "name": "DOI",
-          "url": "http://dx.doi.org",
+          "url": "http://dx.doi.org/10.1145/2901739.2901772",
           "icon": "fa fa-book"
         }
       ]
@@ -73,7 +73,7 @@
         },
         {
           "name": "DOI",
-          "url": "http://dx.doi.org",
+          "url": "http://dx.doi.org/10.1145/2889160.2889195",
           "icon": "fa fa-book"
         }
       ]
@@ -108,7 +108,46 @@
         },
         {
           "name": "DOI",
-          "url": "http://dx.doi.org",
+          "url": "http://dx.doi.org/10.1145/2884781.2884826",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+   {
+      "title": "Why Developers Are Slacking Off: Understanding How Software Teams Use Slack",
+      "authors": [
+        {
+          "first": "Bin",
+          "last": "Lin"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexander",
+          "last": "Serebrenik"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion",
+        "abbrv": "<a href=\"https://cscw.acm.org/2016\">CSCW 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/lin-CSCW2016.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2818052.2869117",
           "icon": "fa fa-book"
         }
       ]
@@ -132,6 +171,45 @@
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/theses/Gomez_Carlos_MSc_2015.pdf",
           "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "Cognitive aspects in unit testing: The hunting game and the hunter's perspective",
+      "authors": [
+        {
+          "first": "Marlos P.",
+          "last": "Prado"
+        },
+        {
+          "first": "Eric",
+          "last": "Verbeek"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Auri M.R.",
+          "last": "Vincenzi"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "26th International Conference on Software Reliability Engineering",
+        "abbrv": "<a href=\"http://2015.issre.net/\">ISSRE 2015</a>"
+      },
+      "year": "2015",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/prado-ISSRE2015.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/ISSRE.2015.7381832",
+          "icon": "fa fa-book"
         }
       ]
     },
@@ -165,7 +243,7 @@
         },
         {
           "name": "DOI",
-          "url": "http://dx.doi.org",
+          "url": "http://dx.doi.org/10.1109/ICPC.2015.19",
           "icon": "fa fa-book"
         }
       ]
