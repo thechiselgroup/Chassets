@@ -1561,6 +1561,199 @@
           "icon": "fa fa-file-pdf-o"
         }
       ]
+    },
+       {
+      "title": "Visualizing Flow Diagrams in Websphere Studio Using SHriMP Views",
+      "authors": [
+        {
+          "first": "Derek",
+          "last": "Rayside"
+        },
+         {
+          "first": "Marin",
+          "last": "Litoiu"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+                {
+          "first": "Casey",
+          "last": "Best"
+        },
+        {
+          "first": "Robert",
+          "last": "Lintern"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Information Systems Frontiers, April 2003, Vol. 5, Issue 2, pp 161-174",
+        "abbrv": "<a href=\"http://link.springer.com/journal/10796/\">ISF</a>"
+      },
+      "year": "2003",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/rayside-ISF2003.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1023/A:1022649506310",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "SHriMP views: an interactive environment for information visualization and navigation",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Casey",
+          "last": "Best"
+        },
+        {
+          "first": "Jeff",
+          "last": "Michaud"
+        },
+                {
+          "first": "Derek",
+          "last": "Rayside"
+        },
+         {
+          "first": "Marin",
+          "last": "Litoiu"
+        },
+        {
+          "first": "Mark",
+          "last": "Musen"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Conference on Human Factors in Computing Systems",
+        "abbrv": "<a href=\"http://www.sigchi.org/chi2002/\">CHI 2002</a>"
+      },
+      "year": "2002",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-CHI2002.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/506443.506459",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+      {
+      "title": "Integrating SHriMP with the IBM websphere studio workbench",
+      "authors": [
+        {
+          "first": "Derek",
+          "last": "Rayside"
+        },
+         {
+          "first": "Marin",
+          "last": "Litoiu"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Casey",
+          "last": "Best"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "2001 Conference of the Centre for Advanced Studies on Collaborative Research",
+        "abbrv": "<a href=\"http://dl.acm.org/citation.cfm?id=782096\">CASCON 2001</a>"
+      },
+      "year": "2001",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/rayside-CASCON2001.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "Visualizing Flow Diagrams with SHriMP",
+      "authors": [
+        {
+          "first": "Derek",
+          "last": "Rayside"
+        },
+         {
+          "first": "Marin",
+          "last": "Litoiu"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Casey",
+          "last": "Best"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "OOPSLA 2001 Workshop on Software Visualization",
+        "abbrv": "<a href=\"http://www.research.ibm.com/people/w/wim/oopsla2001/\">OOPSLA 2001</a>"
+      },
+      "year": "2001",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/rayside-OOPSLA2001.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "SHriMP views: an interactive environment for exploring Java programs",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Casey",
+          "last": "Best"
+        },
+        {
+          "first": "Jeff",
+          "last": "Michaud"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "9th International Workshop on Program Comprehension",
+        "abbrv": "<a href=\"http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7346\">IWPC 2001</a>"
+      },
+      "year": "2001",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-IWPC2001.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/WPC.2001.921719",
+          "icon": "fa fa-book"
+        }
+      ]
     }
   ]
 }
