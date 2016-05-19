@@ -25,7 +25,7 @@
         }
       ],
       "venue": {
-        "format": "To appear",
+        "format": "",
         "conference": "13th International Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2016.msrconf.org/\">MSR 2016</a>"
       },
@@ -60,7 +60,7 @@
         }   
       ],
       "venue": {
-        "format": "To appear",
+        "format": "",
         "conference": "38th International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
@@ -95,7 +95,7 @@
         }
       ],
       "venue": {
-        "format": "To appear",
+        "format": "Awarded Best Paper",
         "conference": "38th International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
@@ -1418,6 +1418,71 @@
         }
       ]
     },
+   {
+      "title": "CogZ: Cognitive Support and Visualization for Semi-Automatic Ontology Mapping",
+      "authors": [
+        {
+          "first": "Sean M.",
+          "last": "Falconer"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "International Conference on Biomedical Ontology, Software Demonstration",
+        "abbrv": "<a href=\"http://icbo.buffalo.edu/2009/\">ICBO 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/falconer-ICBO2009.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "Creating Visualizations Through Ontology Mapping",
+      "authors": [
+        {
+          "first": "Sean M.",
+          "last": "Falconer"
+        },
+        {
+          "first": "R. Ian",
+          "last": "Bull"
+        },
+        {
+          "first": "Lars",
+          "last": "Grammel"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "2nd International Workshop on Ontology Alignment and Visualization",
+        "abbrv": "<a href=\"http://www.ifs.tuwien.ac.at/~mlanzenberger/OnAV09//\">OnAV 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/falconer-OnAV2009.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/CISIS.2009.40",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
     {
       "title": "Visualization for Seeking and Comparing Clinical Trials",
       "authors": [
@@ -1540,6 +1605,67 @@
         }
       ]
     },
+      {
+      "title": "Ontology Mapping – A User Survey",
+      "authors": [
+        {
+          "first": "Sean M.",
+          "last": "Falconer"
+        },
+        {
+          "first": "Natalya F.",
+          "last": "Noy"
+        },        
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "ISWC Ontology Matching Workshop",
+        "abbrv": "<a href=\"http://oaei.ontologymatching.org/2007/\">OAEI 2007</a>"
+      },
+      "year": "2007",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/falconer-OAEI2007.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "A Cognitive Support Framework for Ontology Mapping",
+      "authors": [
+        {
+          "first": "Sean M.",
+          "last": "Falconer"
+        }, 
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "6th International Semantic Web Conference",
+        "abbrv": "<a href=\"http://iswc2007.semanticweb.org/main/default.asp.html/\">ISWC 2007</a>"
+      },
+      "year": "2007",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/falconer-ISWC2007.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1007/978-3-540-76298-0_9",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
     {
       "title": "Youth as Nexus: A Networked Perspective. Understanding How Information and Communication Technologies (ICT) Matter to Youth",
       "authors": [
@@ -1558,6 +1684,36 @@
         {
           "name": "PDF",
           "url": "http://keg.cs.uvic.ca/theses/Maczewski_Mechthild_PhD_2007.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+   {
+      "title": "Towards Understanding the Needs of Cognitive Support for Ontology Mapping",
+      "authors": [
+        {
+          "first": "Sean M.",
+          "last": "Falconer"
+        },
+        {
+          "first": "Natalya F.",
+          "last": "Noy"
+        },        
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "9th International Workshop on Program Comprehension",
+        "abbrv": "<a href=\"http://om2006.ontologymatching.org/\">OM 2006</a>"
+      },
+      "year": "2006",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/falconer-OM2006.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1588,8 +1744,8 @@
       ],
       "venue": {
         "format": "",
-        "conference": "Information Systems Frontiers, April 2003, Vol. 5, Issue 2, pp 161-174",
-        "abbrv": "<a href=\"http://link.springer.com/journal/10796/\">ISF</a>"
+        "conference": "Information Systems Frontiers",
+        "abbrv": "<a href=\"http://link.springer.com/journal/10796/\">2003, Vol. 5, Issue 2</a>"
       },
       "year": "2003",
       "links": [
@@ -1606,7 +1762,7 @@
       ]
     },
        {
-      "title": "SHriMP views: an interactive environment for information visualization and navigation",
+      "title": "SHriMP Views: an Interactive Environment for Information Visualization and Navigation",
       "authors": [
         {
           "first": "Margaret-Anne",
@@ -1653,7 +1809,7 @@
       ]
     },
       {
-      "title": "Integrating SHriMP with the IBM websphere studio workbench",
+      "title": "Integrating SHriMP with the IBM Websphere Studio Workbench",
       "authors": [
         {
           "first": "Derek",
@@ -1721,7 +1877,7 @@
       ]
     },
    {
-      "title": "SHriMP views: an interactive environment for exploring Java programs",
+      "title": "SHriMP Views: an Interactive Environment for Exploring Java Programs",
       "authors": [
         {
           "first": "Margaret-Anne",
