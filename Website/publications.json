@@ -1,5 +1,31 @@
 {
   "publications": [
+    {
+      "title": "Disrupting Developer Productivity One Bot at a Time",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
+        "abbrv": "<a href=\"http://www.cs.ucdavis.edu/fse2016/\">FSE 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-FSE2016.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
    {
       "title": "How the R Community Creates and Curates Knowledge: A Comparative Study of Stack Overflow and Mailing Lists",
       "authors": [
