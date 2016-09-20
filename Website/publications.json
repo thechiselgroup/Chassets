@@ -14,15 +14,20 @@
       ],
       "venue": {
         "format": "",
-        "conference": "24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
+        "conference": "Visions and Reflections track of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
         "abbrv": "<a href=\"http://www.cs.ucdavis.edu/fse2016/\">FSE 2016</a>"
       },
       "year": "2016",
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-FSE2016.pdf",
+          "url": "http://keg.cs.uvic.ca/pubs/storey-FSE-VaR2016.pdf",
           "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1145/2950290.2983989",
+          "icon": "fa fa-book"
         }
       ]
     },
