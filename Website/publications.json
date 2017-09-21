@@ -1,5 +1,234 @@
 {
   "publications": [
+  	   {
+      "title": "Code Reviewing in the Trenches: Understanding Challenges and Best Practices",
+      "authors": [
+        {
+          "first": "Laura",
+          "last": "MacLeod"
+        },
+        {
+          "first": "Michaela",
+          "last": "Greiler"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Christian",
+          "last": "Bird"
+        },
+                {
+          "first": "Jacek",
+          "last": "Czerwonka"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "To appear in IEEE Software",
+        "abbrv": "<a href=\"http://www.computer.org/web/computingnow/software\">2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/macleod-IEEESoftware2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/MS.2017.265100500",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Documenting and Sharing Software Knowledge Using Screencasts",
+      "authors": [
+        {
+          "first": "Laura",
+          "last": "MacLeod"
+        },
+        {
+          "first": "Andreas",
+          "last": "Bergen"
+        },
+                {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2017, Vol. 22, Issue 3</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/macleod-ESE2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1007/s10664-017-9501-9",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "How Software Developers Mitigate Collaboration Friction with Chatbots",
+      "authors": [
+        {
+          "first": "Carlene",
+          "last": "Lebeuf"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "20th ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+        "abbrv": "<a href=\"https://cscw.acm.org/2017//\">CSCW 2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/lebeuf-CSCW2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+       {
+      "title": "How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Fernando",
+          "last": "Figueira Filho"
+        },
+                {
+          "first": "Leif",
+          "last": "Singer"
+        },
+        {
+          "first": "Daniel M",
+          "last": "German"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Transactions on Software Engineering",
+        "abbrv": "<a href=\"http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32\">2017, Volume 43, Issue 2</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-TOSE2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1109/TSE.2016.2584053",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "How the R Community Creates and Curates Knowledge: An Extended Study of Stack Overflow and Mailing Lists",
+      "authors": [
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Daniel M.",
+          "last": "German"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Carlos",
+          "last": "Gómez Teshima"
+        },
+        {
+          "first": "Germán",
+          "last": "Poo-Caamaño"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "To appear in Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/zagalsky-ESE2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.1007/s10664-017-9536-y",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Eye Tracking the User Experience – An Evaluation of Ontology Visualization Techniques",
+      "authors": [
+        {
+          "first": "Bo",
+          "last": "Fu"
+        },
+        {
+          "first": "Natalya F",
+          "last": "Noy"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Semantic Web",
+        "abbrv": "<a href=\"http://www.semantic-web-journal.net/\">2017, Volume 8, Issue 1</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/fu-SEMWEB2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://dx.doi.org/10.3233/SW-140163",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
     {
       "title": "Disrupting Developer Productivity One Bot at a Time",
       "authors": [
