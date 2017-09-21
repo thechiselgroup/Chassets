@@ -21,7 +21,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-FSE-VaR2016.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-FSE-VaR2016.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -64,7 +64,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/zagalsky-MSR2016.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/zagalsky-MSR2016.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -99,7 +99,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/feliciano-ICSE2016.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/feliciano-ICSE2016.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -134,7 +134,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/gousios-ICSE2016.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/gousios-ICSE2016.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -173,7 +173,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/lin-CSCW2016.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/lin-CSCW2016.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -200,7 +200,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Gomez_Carlos_MSc_2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Gomez_Carlos_MSc_2015.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -234,7 +234,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/prado-ISSRE2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/prado-ISSRE2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -269,7 +269,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/macleod-ICPC2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/macleod-ICPC2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -320,7 +320,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/roundtable-IEEESoft2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/roundtable-IEEESoft2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -355,7 +355,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-EASE2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-EASE2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -398,7 +398,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/zagalsky-CSCW2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/zagalsky-CSCW2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -447,7 +447,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/arcniegas-mendez-CHASE2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/arcniegas-mendez-CHASE2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -474,7 +474,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Feliciano_Joseph_MSc_2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Feliciano_Joseph_MSc_2015.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -496,7 +496,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/MacLeod_Laura_MSc_2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/MacLeod_Laura_MSc_2015.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -518,7 +518,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Voyloshnikova_Elena_MSc_2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Voyloshnikova_Elena_MSc_2015.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -544,7 +544,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/voyloshnikova-CASCON2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/voyloshnikova-CASCON2014.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -578,7 +578,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/gousios-TechReport2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/gousios-TechReport2014.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -612,7 +612,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/rigby-TOESM2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/rigby-TOESM2014.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -655,7 +655,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-FOSE2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-FOSE2014.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -703,7 +703,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/miranda-MOBILESOFT2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/miranda-MOBILESOFT2014.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -750,7 +750,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/kalliamvakou-MSR2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/kalliamvakou-MSR2014.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -785,7 +785,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/singer-ICSE2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/singer-ICSE2014.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -822,7 +822,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Rusk_David_MSc_2014.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Rusk_David_MSc_2014.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -864,7 +864,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/cleary-WCRE2013.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -900,7 +900,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/fu-ISWC2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/fu-ISWC2013.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -939,7 +939,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/greiler-MSR2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/greiler-MSR2013.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -978,7 +978,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/dullemond-MSR2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/dullemond-MSR2013.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1008,7 +1008,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/gomez-MSR2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/gomez-MSR2013.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1046,7 +1046,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/cleary-CHASE2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/cleary-CHASE2013.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1081,7 +1081,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/pham-NIER2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/pham-NIER2013.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1123,7 +1123,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/singer-CSCW2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/singer-CSCW2013.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1150,7 +1150,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Stevenson_Sean_MSc_2013.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Stevenson_Sean_MSc_2013.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1188,7 +1188,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/cleary-WCRE2012.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/cleary-WCRE2012.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1215,7 +1215,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Grammel_Lars_PhD_2012.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Grammel_Lars_PhD_2012.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1237,7 +1237,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Treude_Christoph_PhD_2012.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Treude_Christoph_PhD_2012.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1259,7 +1259,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Kuipers_Nathanael_MS_2012.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Kuipers_Nathanael_MS_2012.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1281,7 +1281,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Bougie_Gargi_MSc_2012.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Bougie_Gargi_MSc_2012.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1307,7 +1307,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/myers-WCRE2011.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/myers-WCRE2011.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1334,7 +1334,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Rigby_Peter_PhD_2011.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Rigby_Peter_PhD_2011.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1356,7 +1356,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Myers_Del_MSc_2011.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Myers_Del_MSc_2011.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1382,7 +1382,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/myers-FSE2010.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/myers-FSE2010.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1417,7 +1417,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/myers-CSMR2010.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/myers-CSMR2010.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1444,7 +1444,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Corrie_Brian_PhD_2010.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Corrie_Brian_PhD_2010.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1470,7 +1470,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/treude-ICSE2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/treude-ICSE2009.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1501,7 +1501,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/falconer-ICBO2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/falconer-ICBO2009.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1535,7 +1535,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/falconer-OnAV2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/falconer-OnAV2009.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1562,7 +1562,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Hernandez_Maria_PhD_2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Hernandez_Maria_PhD_2009.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1584,7 +1584,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Desmond_Michael_PhD_2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Desmond_Michael_PhD_2009.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1606,7 +1606,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Falconer_Sean_PhD_2009.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Falconer_Sean_PhD_2009.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1628,7 +1628,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Bull_Robert_Ian_PhD_2008.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Bull_Robert_Ian_PhD_2008.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1662,7 +1662,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/bennett-PCODA2007.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/bennett-PCODA2007.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1692,7 +1692,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/falconer-OAEI2007.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/falconer-OAEI2007.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1718,7 +1718,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/falconer-ISWC2007.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/falconer-ISWC2007.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1745,7 +1745,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/theses/Maczewski_Mechthild_PhD_2007.pdf",
+          "url": "http://chisel.cs.uvic.ca/theses/Maczewski_Mechthild_PhD_2007.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1775,7 +1775,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/falconer-OM2006.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/falconer-OM2006.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1813,7 +1813,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/rayside-ISF2003.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/rayside-ISF2003.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1860,7 +1860,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-CHI2002.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-CHI2002.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -1899,7 +1899,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/rayside-CASCON2001.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/rayside-CASCON2001.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1933,7 +1933,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/rayside-OOPSLA2001.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/rayside-OOPSLA2001.pdf",
           "icon": "fa fa-file-pdf-o"
         }
       ]
@@ -1963,7 +1963,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://keg.cs.uvic.ca/pubs/storey-IWPC2001.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-IWPC2001.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
