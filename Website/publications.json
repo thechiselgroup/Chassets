@@ -1,6 +1,44 @@
 {
   "publications": [
   	   {
+      "title": "Using a Visual Abstract as a Lens for Communicating and Promoting Design Science Research in Software Engineering",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+                {
+          "first": "Emelie",
+          "last": "Engstrom"
+        },
+                {
+          "first": "Martin",
+          "last": "Host"
+        },
+                {
+          "first": "Per",
+          "last": "Runeson"
+        },
+        {
+          "first": "Elizabeth",
+          "last": "Bjarnason"
+        }
+      ],
+      "venue": {
+        "format": "Submitted to",
+        "conference": "International Symposium on Empirical Software Engineering and Measurement",
+        "abbrv": "<a href=\"http://www.scs.ryerson.ca/eseiw2017/ESEM/\">ESEM 2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+  	   {
       "title": "Code Reviewing in the Trenches: Understanding Challenges and Best Practices",
       "authors": [
         {
@@ -33,7 +71,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/macleod-IEEESoftware2017.pdf",
+          "url": "http://ieeexplore.ieee.org/abstract/document/7950877/",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -68,7 +106,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/macleod-ESE2017.pdf",
+          "url": "https://link.springer.com/article/10.1007/s10664-017-9501-9",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -128,7 +166,7 @@
           "last": "Singer"
         },
         {
-          "first": "Daniel M",
+          "first": "Daniel M.",
           "last": "German"
         }
       ],
@@ -141,7 +179,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/storey-TOSE2017.pdf",
+          "url": "http://ieeexplore.ieee.org/abstract/document/7498605/",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -184,7 +222,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/zagalsky-ESE2017.pdf",
+          "url": "https://link.springer.com/article/10.1007/s10664-017-9536-y",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -202,7 +240,7 @@
           "last": "Fu"
         },
         {
-          "first": "Natalya F",
+          "first": "Natalya F.",
           "last": "Noy"
         },
         {
@@ -219,7 +257,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/fu-SEMWEB2017.pdf",
+          "url": "http://content.iospress.com/articles/semantic-web/sw163",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -966,7 +1004,7 @@
           "last": "Damian"
         },
         {
-          "first": "Daniel",
+          "first": "Daniel M.",
           "last": "German"
         }
       ],
@@ -1878,7 +1916,7 @@
           "last": "Storey"
         },
         {
-          "first": "Daniel",
+          "first": "Daniel M.",
           "last": "German"
         }
       ],
