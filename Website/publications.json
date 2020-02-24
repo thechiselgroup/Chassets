@@ -1,44 +1,443 @@
 {
   "publications": [
-  	   {
-      "title": "Using a Visual Abstract as a Lens for Communicating and Promoting Design Science Research in Software Engineering",
+       {
+      "title": "Fostering good coding practices through individual feedback and gamification: an industrial case study",
+      "authors": [
+        {
+          "first": "Matthieu",
+          "last": "Focault"
+        },
+        {
+          "first": "Xavier",
+          "last": "Blanc"
+        },
+        {
+          "first": "Jean-Rémy",
+          "last": "Falleri"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2019, Vol. 24, Issue 6</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "https://rdcu.be/b17Tu",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1007/s10664-019-09719-4",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Towards a Theory of Software Developer Job Satisfaction and Perceived Productivity",
       "authors": [
         {
           "first": "Margaret-Anne",
           "last": "Storey"
         },
-                {
-          "first": "Emelie",
-          "last": "Engstrom"
-        },
-                {
-          "first": "Martin",
-          "last": "Host"
-        },
-                {
-          "first": "Per",
-          "last": "Runeson"
+        {
+          "first": "Thomas",
+          "last": "Zimmermann"
         },
         {
-          "first": "Elizabeth",
-          "last": "Bjarnason"
-        }
+          "first": "Christian",
+          "last": "Bird"
+        },
+        {
+          "first": "Jacek",
+          "last": "Czerwonka"
+        },
+                {
+          "first": "Brendan",
+          "last": "Murphy"
+        },
+                {
+          "first": "Eirini",
+          "last": "Kalliamvakou"
+        }        
       ],
       "venue": {
-        "format": "Submitted to",
-        "conference": "International Symposium on Empirical Software Engineering and Measurement",
-        "abbrv": "<a href=\"http://www.scs.ryerson.ca/eseiw2017/ESEM/\">ESEM 2017</a>"
+        "format": "",
+        "conference": "Transactions on Software Engineering",
+        "abbrv": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8851296\">2019, Early Access</a>"
       },
-      "year": "2017",
+      "year": "2019",
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-TSE2019.pdf",
           "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/TSE.2019.2944354",
+          "icon": "fa fa-book"
         }
       ]
     },
-  	   {
+       {
+      "title": "Do as I Do, Not as I Say: Do Contribution Guidelines Match the GitHub Contribution Process?",
+      "authors": [
+        {
+          "first": "Omar",
+          "last": "Elazhary"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Neil",
+          "last": "Ernst"
+        },
+        {
+          "first": "Andy",
+          "last": "Zaidman"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE International Conference on Software Maintenance and Evolution",
+        "abbrv": "<a href=\"https://icsme2019.github.io/\">ICSME 2019</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/elazhary-ICSME2019.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICSME.2019.00043",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Defining and Classifying Software Bots: A Faceted Taxonomy",
+      "authors": [
+        {
+          "first": "Carlene",
+          "last": "Lebeuf"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Matthieu",
+          "last": "Focault"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE/ACM International Workshop on Bots in Software Engineering",
+        "abbrv": "<a href=\"http://botse.org/2019/\">BotSE 2019</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/lebeuf-BotSE2019.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/BotSE.2019.00008",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "A Software Development Productivity Framework",
+      "authors": [
+        {
+          "first": "Caitlin",
+          "last": "Sadowski"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Robert",
+          "last": "Feldt"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Rethinking Productivity in Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/book/10.1007/978-1-4842-4221-6\">2019, Apress, Berkeley, CA, Sadowski C., Zimmermann T. (eds)</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4221-6.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1007/978-1-4842-4221-6_5",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Software Engineering Dashboards: Types, Risks, and Future",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Rethinking Productivity in Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/book/10.1007/978-1-4842-4221-6\">2019, Apress, Berkeley, CA, Sadowski C., Zimmermann T. (eds)</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4221-6.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1007/978-1-4842-4221-6_16",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Understanding, Debugging, and Optimizing Distributed Software Builds: A Design Study",
+      "authors": [
+        {
+          "first": "Carlene",
+          "last": "Lebeuf"
+        },
+        {
+          "first": "Elena",
+          "last": "Voyloshnikova"
+        },
+        {
+          "first": "Kim",
+          "last": "Herzig"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE International Conference on Software Maintenance and Evolution",
+        "abbrv": "<a href=\"https://icsme2018.github.io/\">ICSME 2018</a>"
+      },
+      "year": "20XX",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/lebeuf-ICSME2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICSME.2018.00060",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "How Modern News Aggregators Help Development Communities Shape and Share Knowledge",
+      "authors": [
+        {
+          "first": "Maurício",
+          "last": "Aniche"
+        },
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        },
+        {
+          "first": "Igor",
+          "last": "Steinmacher"
+        },
+        {
+          "first": "Igor",
+          "last": "Wiese"
+        },
+        {
+          "first": "Gustavo",
+          "last": "Pinto"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }        
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
+        "abbrv": "<a href=\"https://www.icse2018.org/\">ICSE 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/aniche-ICSE2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1145/3180155.3180180",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "When Testing Meets Code Review: Why and How Developers Review Tests",
+      "authors": [
+        {
+          "first": "Davide",
+          "last": "Spadini"
+        },
+        {
+          "first": "Maurício",
+          "last": "Aniche"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Magiel",
+          "last": "Bruntink"
+        },
+                {
+          "first": "Alberto",
+          "last": "Bacchelli"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
+        "abbrv": "<a href=\"https://XXXXX\">ICSE 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/spadini-ICSE2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1145/3180155.3180192",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "How the R community creates and curates knowledge: an extended study of stack overflow and mailing lists",
+      "authors": [
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Daniel M.",
+          "last": "German"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Carlos",
+          "last": "Gómez Teshima"
+        },
+                {
+          "first": "Germán",
+          "last": "Poo-Caamaño"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2018, Vol. 23, Issue 2</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "https://rdcu.be/b17XS",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1007/s10664-017-9536-y",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Software Bots",
+      "authors": [
+        {
+          "first": "Carlene",
+          "last": "Lebeuf"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE Software",
+        "abbrv": "<a href=\"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52\">2018, Vol. 35, Issue 1</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/lebeuf-IEEESoftware2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/MS.2017.4541027",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
       "title": "Code Reviewing in the Trenches: Understanding Challenges and Best Practices",
       "authors": [
         {
@@ -64,10 +463,10 @@
       ],
       "venue": {
         "format": "",
-        "conference": "To appear in IEEE Software",
-        "abbrv": "<a href=\"http://www.computer.org/web/computingnow/software\">2017</a>"
+        "conference": "IEEE Software",
+        "abbrv": "<a href=\"https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8405616\">2018, Vol. 35, Issue 4</a>"
       },
-      "year": "2017",
+      "year": "2018",
       "links": [
         {
           "name": "PDF",
@@ -82,7 +481,127 @@
       ]
     },
        {
-      "title": "Documenting and Sharing Software Knowledge Using Screencasts",
+      "title": "Using a Visual Abstract as a Lens for Communicating and Promoting Design Science Research in Software Engineering",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+                {
+          "first": "Emelie",
+          "last": "Engstrom"
+        },
+                {
+          "first": "Martin",
+          "last": "Host"
+        },
+                {
+          "first": "Per",
+          "last": "Runeson"
+        },
+        {
+          "first": "Elizabeth",
+          "last": "Bjarnason"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "ACM/IEEE International Symposium on Empirical Software Engineering and Measurement",
+        "abbrv": "<a href=\"http://www.scs.ryerson.ca/eseiw2017/ESEM/\">ESEM 2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/storey-ESEM2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+       {
+      "title": "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces",
+      "authors": [
+        {
+          "first": "Huihui Nora",
+          "last": "Huang"
+        },
+        {
+          "first": "Eric",
+          "last": "Verbeek"
+        },
+        {
+          "first": "Daniel M.",
+          "last": "German"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+                {
+          "first": "Martin",
+          "last": "Salois"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE International Conference on Software Maintenance and Evolution",
+        "abbrv": "<a href=\"https://icsme2017.github.io/\">ICSME 2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/huang-ICSME2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICSME.2017.23",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Using the Model of Regulation to Understand Software Development Collaboration Practices and Tool Support",
+      "authors": [
+        {
+          "first": "Maryi",
+          "last": "Arciniegas-Mendez"
+        },
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Allyson",
+          "last": "Hadwin"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+        "abbrv": "<a href=\"https://cscw.acm.org/2017/\">CSCW 2017</a>"
+      },
+      "year": "2017",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/arciniegas-mendez-CSCW2017.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1145/2998181.2998360",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+       {
+      "title": "Documenting and sharing software knowledge using screencasts",
       "authors": [
         {
           "first": "Laura",
@@ -106,7 +625,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "https://link.springer.com/article/10.1007/s10664-017-9501-9",
+          "url": "https://rdcu.be/b17XK",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -134,7 +653,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "20th ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+        "conference": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
         "abbrv": "<a href=\"https://cscw.acm.org/2017//\">CSCW 2017</a>"
       },
       "year": "2017",
@@ -190,49 +709,6 @@
       ]
     },
        {
-      "title": "How the R Community Creates and Curates Knowledge: An Extended Study of Stack Overflow and Mailing Lists",
-      "authors": [
-        {
-          "first": "Alexey",
-          "last": "Zagalsky"
-        },
-        {
-          "first": "Daniel M.",
-          "last": "German"
-        },
-        {
-          "first": "Margaret-Anne",
-          "last": "Storey"
-        },
-        {
-          "first": "Carlos",
-          "last": "Gómez Teshima"
-        },
-        {
-          "first": "Germán",
-          "last": "Poo-Caamaño"
-        }
-      ],
-      "venue": {
-        "format": "",
-        "conference": "To appear in Empirical Software Engineering",
-        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2017</a>"
-      },
-      "year": "2017",
-      "links": [
-        {
-          "name": "PDF",
-          "url": "https://link.springer.com/article/10.1007/s10664-017-9536-y",
-          "icon": "fa fa-file-pdf-o"
-        },
-        {
-          "name": "DOI",
-          "url": "http://dx.doi.org/10.1007/s10664-017-9536-y",
-          "icon": "fa fa-book"
-        }
-      ]
-    },
-       {
       "title": "Eye Tracking the User Experience – An Evaluation of Ontology Visualization Techniques",
       "authors": [
         {
@@ -281,7 +757,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "Visions and Reflections track of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
+        "conference": "Visions and Reflections track of the ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
         "abbrv": "<a href=\"http://www.cs.ucdavis.edu/fse2016/\">FSE 2016</a>"
       },
       "year": "2016",
@@ -324,7 +800,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "13th International Conference on Mining Software Repositories",
+        "conference": "International Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2016.msrconf.org/\">MSR 2016</a>"
       },
       "year": "2016",
@@ -359,7 +835,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "38th International Conference on Software Engineering",
+        "conference": "ACM/IEEE International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
       "year": "2016",
@@ -394,7 +870,7 @@
       ],
       "venue": {
         "format": "Awarded Distinguished Paper",
-        "conference": "38th International Conference on Software Engineering",
+        "conference": "ACM/IEEE International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
       "year": "2016",
@@ -494,7 +970,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "26th International Conference on Software Reliability Engineering",
+        "conference": "IEEE International Conference on Software Reliability Engineering",
         "abbrv": "<a href=\"http://2015.issre.net/\">ISSRE 2015</a>"
       },
       "year": "2015",
@@ -529,7 +1005,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "23rd International Conference on Program Comprehension",
+        "conference": "IEEE International Conference on Program Comprehension",
         "abbrv": "<a href=\"https://dibt.unimol.it/ICPC15/Home.html\">ICPC 2015</a>"
       },
       "year": "2015",
@@ -615,7 +1091,7 @@
       ],
       "venue": {
         "format": "Keynote Extended Abstract",
-        "conference": "19th International Conference on Evaluation and Assessment",
+        "conference": "International Conference on Evaluation and Assessment",
         "abbrv": "<a href=\"http://emse.nju.edu.cn/ease2015/program/keynote-speakers/\">EASE 2015</a>"
       },
       "year": "2015",
@@ -707,14 +1183,14 @@
       ],
       "venue": {
         "format": "",
-        "conference": "8th International Workshop on Cooperative Human Aspects of Software Engineering",
+        "conference": "International Workshop on Cooperative Human Aspects of Software Engineering",
         "abbrv": "<a href=\"http://www.chaseresearch.org/workshops/chase2015\">CHASE 2015</a>"
       },
       "year": "2015",
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/arcniegas-mendez-CHASE2015.pdf",
+          "url": "http://chisel.cs.uvic.ca/pubs/arciniegas-mendez-CHASE2015.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
@@ -804,7 +1280,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "24th Annual International Conference on Computer Science and Software Engineering",
+        "conference": "International Conference on Computer Science and Software Engineering",
         "abbrv": "<a href=\"https://www-927.ibm.com/ibm/cas/cascon/\">CASCON 2014</a>"
       },
       "year": "2014",
@@ -963,7 +1439,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "1st International Conference on Mobile Software Engineering and Systems",
+        "conference": "International Conference on Mobile Software Engineering and Systems",
         "abbrv": "<a href=\"http://mobilesoftconf.org/2014/\">MOBILESoft 2014</a>"
       },
       "year": "2014",
@@ -1045,7 +1521,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "36th International Conference on Software Engineering",
+        "conference": "ACM/IEEE International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2014.icse-conferences.org/\">ICSE 2014</a>"
       },
       "year": "2014",
@@ -1160,7 +1636,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "12th International Semantic Web Conference",
+        "conference": "International Semantic Web Conference",
         "abbrv": "<a href=\"http://iswc2013.semanticweb.org/\">ISWC 2013</a>"
       },
       "year": "2013",
@@ -1306,7 +1782,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "6th International Workshop on Cooperative and Human Aspects of Software Engineering",
+        "conference": "International Workshop on Cooperative and Human Aspects of Software Engineering",
         "abbrv": "<a href=\"http://www.chaseresearch.org/workshops/chase2013/\">CHASE 2013</a>"
       },
       "year": "2013",
@@ -1642,7 +2118,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "18th International Symposium on Foundations of Software Engineering",
+        "conference": "ACM SIGSOFT International Symposium on Foundations of Software Engineering",
         "abbrv": "<a href=\"http://fse18.cse.wustl.edu/\">FSE 2010</a>"
       },
       "year": "2010",
@@ -1730,7 +2206,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "31st International Conference on Software Engineering",
+        "conference": "ACM/IEEE International Conference on Software Engineering",
         "abbrv": "<a href=\"https://www.cs.uoregon.edu/events/icse2009/home/\">ICSE 2009</a>"
       },
       "year": "2009",
@@ -1795,7 +2271,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "2nd International Workshop on Ontology Alignment and Visualization",
+        "conference": "International Workshop on Ontology Alignment and Visualization",
         "abbrv": "<a href=\"http://www.ifs.tuwien.ac.at/~mlanzenberger/OnAV09//\">OnAV 2009</a>"
       },
       "year": "2009",
@@ -1922,7 +2398,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "3rd International Workshop on Program Comprehension Through Dynamic Analysis",
+        "conference": "International Workshop on Program Comprehension Through Dynamic Analysis",
         "abbrv": "<a href=\"http://swerl.tudelft.nl/bin/view/Main/PCODA2007\">PCODA 2007</a>"
       },
       "year": "2007",
@@ -1978,7 +2454,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "6th International Semantic Web Conference",
+        "conference": "International Semantic Web Conference",
         "abbrv": "<a href=\"http://iswc2007.semanticweb.org/main/default.asp.html/\">ISWC 2007</a>"
       },
       "year": "2007",
@@ -2035,7 +2511,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "9th International Workshop on Program Comprehension",
+        "conference": "International Workshop on Ontology Matching",
         "abbrv": "<a href=\"http://om2006.ontologymatching.org/\">OM 2006</a>"
       },
       "year": "2006",
@@ -2223,7 +2699,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "9th International Workshop on Program Comprehension",
+        "conference": "IEEE International Workshop on Program Comprehension",
         "abbrv": "<a href=\"http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7346\">IWPC 2001</a>"
       },
       "year": "2001",
