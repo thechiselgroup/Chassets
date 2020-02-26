@@ -1,6 +1,38 @@
 {
   "publications": [
        {
+      "title": "Publish or Perish: Questioning the Impact of Our Research on the Software Developer",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "Keynote",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
+        "abbrv": "<a href=\"https://conf.researchr.org/home/icse-2019\">ICSE 2019</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "Abstract",
+          "url": "https://ieeexplore.ieee.org/abstract/document/8802753",
+          "icon": "fa fa-info"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICSE-Companion.2019.00021",
+          "icon": "fa fa-book"
+        },
+        {
+          "name": "Slides",
+          "url": "https://www.slideshare.net/mastorey/publish-or-perish-questioning-the-impact-of-our-research-on-the-software-developer",
+          "icon": "fa fa-file-powerpoint-o"
+        }
+      ]
+    },
+        {
       "title": "Fostering good coding practices through individual feedback and gamification: an industrial case study",
       "authors": [
         {
@@ -122,6 +154,75 @@
           "name": "DOI",
           "url": "https://doi.org/10.1109/ICSME.2019.00043",
           "icon": "fa fa-book"
+        }
+      ]
+    },
+        {
+      "title": "CloneCompass: Visualizations for Exploring Assembly Code Clone Ecosystems",
+      "authors": [
+        {
+          "first": "Ying",
+          "last": "Wang"
+        },
+        {
+          "first": "Jorin",
+          "last": "Weatherston"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Daniel",
+          "last": "German"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE Working Conference on Software Visualization",
+        "abbrv": "<a href=\"http://ieeevis.org/year/2019/welcome\">VIS 2019</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/wang-VIS2019.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/VISSOFT.2019.00019",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+        {
+      "title": "Visualizing Unquantifiable Uncertainty in Drug Checking Test Results",
+      "authors": [
+        {
+          "first": "Jorin",
+          "last": "Weatherston"
+        },
+        {
+          "first": "Charles",
+          "last": "Perin"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "Poster",
+        "conference": "IEEE Working Conference on Software Visualization",
+        "abbrv": "<a href=\"http://ieeevis.org/year/2019/info/posters\">VIS 2019</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "Video",
+          "url": "https://vimeo.com/361166097",
+          "icon": "fa fa-vimeo-square"
         }
       ]
     },
@@ -255,7 +356,7 @@
         "conference": "IEEE International Conference on Software Maintenance and Evolution",
         "abbrv": "<a href=\"https://icsme2018.github.io/\">ICSME 2018</a>"
       },
-      "year": "20XX",
+      "year": "2018",
       "links": [
         {
           "name": "PDF",
@@ -757,7 +858,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "Visions and Reflections track of the ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
+        "conference": "Visions and Reflections track, ACM SIGSOFT International Symposium on the Foundations of Software Engineering",
         "abbrv": "<a href=\"http://www.cs.ucdavis.edu/fse2016/\">FSE 2016</a>"
       },
       "year": "2016",
@@ -988,7 +1089,7 @@
       ]
     },
     {
-      "title": "Code, camera, action: How software developers document and share program knowledge using YouTube",
+      "title": "Code, Camera, Action: How Software Developers Document and Share Program Knowledge Using YouTube",
       "authors": [
         {
           "first": "Laura",
@@ -1293,7 +1394,7 @@
       ]
     },
     {
-      "title": "Work practices and challenges in pull-based development: the integrator's perspective",
+      "title": "Work Practices and Challenges in Pull-Based Development: The Integrator's Perspective",
       "authors": [
         {
           "first": "Georgios",
@@ -1366,7 +1467,7 @@
       ]
     },
     {
-      "title": "The (R) Evolution of social media in software engineering",
+      "title": "The (R)Evolution of social media in software engineering",
       "authors": [
         {
           "first": "Margaret-Anne",
@@ -1649,6 +1750,41 @@
         {
           "name": "DOI",
           "url": "http://dx.doi.org/10.1007/978-3-642-41335-3_8",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+           {
+      "title": "Automated Detection of Test Fixture Strategies and Smells",
+      "authors": [
+        {
+          "first": "Michaela",
+          "last": "Greiler"
+        },
+        {
+          "first": "Arie",
+          "last": "van Deursen"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "IEEE International Conference on Software Testing, Verification and Validation",
+        "abbrv": "<a href=\"http://www.icst.lu/\">ICST 2013</a>"
+      },
+      "year": "2013",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/greiler-ICST2013.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICST.2013.45",
           "icon": "fa fa-book"
         }
       ]
@@ -2193,6 +2329,37 @@
       ]
     },
    {
+      "title": "How tagging helps bridge the gap between social and technical aspects in software development",
+      "authors": [
+        {
+          "first": "Christoph",
+          "last": "Treude"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "abbrv": "<a href=\"https://www.cs.uoregon.edu/events/icse2009/home/\">ICSE 2009</a>"
+      },
+      "year": "2009",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/treude-ICSE2009b.pdf",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1109/ICSE.2009.5070504",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+   {
       "title": "ConcernLines: A timeline view of co-occurring concerns",
       "authors": [
         {
@@ -2222,7 +2389,7 @@
           "icon": "fa fa-book"
         }
       ]
-    },
+    },    
    {
       "title": "CogZ: Cognitive Support and Visualization for Semi-Automatic Ontology Mapping",
       "authors": [
@@ -2351,6 +2518,45 @@
           "name": "PDF",
           "url": "http://chisel.cs.uvic.ca/theses/Falconer_Sean_PhD_2009.pdf",
           "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+       {
+      "title": "Selecting Empirical Methods for Software Engineering Research",
+      "authors": [
+        {
+          "first": "Steve",
+          "last": "Easterbrook"
+        },
+        {
+          "first": "Janice",
+          "last": "Singer"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Daniela",
+          "last": "Damian"
+        }
+      ],
+      "venue": {
+        "format": "XXXXX",
+        "conference": "XXXXX",
+        "abbrv": "<a href=\"https://XXXXX\">20XX, Vol. XX, Issue X</a>"
+      },
+      "year": "20XX",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/XXXXX",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "http://XXXXX",
+          "icon": "fa fa-book"
         }
       ]
     },
