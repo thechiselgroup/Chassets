@@ -70,45 +70,6 @@
         }
       ]
     },
-        {
-      "title": "Fostering good coding practices through individual feedback and gamification: an industrial case study",
-      "authors": [
-        {
-          "first": "Matthieu",
-          "last": "Focault"
-        },
-        {
-          "first": "Xavier",
-          "last": "Blanc"
-        },
-        {
-          "first": "Jean-Rémy",
-          "last": "Falleri"
-        },
-        {
-          "first": "Margaret-Anne",
-          "last": "Storey"
-        }
-      ],
-      "venue": {
-        "format": "",
-        "conference": "Empirical Software Engineering",
-        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2019, Vol. 24, Issue 6</a>"
-      },
-      "year": "2019",
-      "links": [
-        {
-          "name": "PDF",
-          "url": "https://rdcu.be/b17Tu",
-          "icon": "fa fa-file-pdf-o"
-        },
-        {
-          "name": "DOI",
-          "url": "https://doi.org/10.1007/s10664-019-09719-4",
-          "icon": "fa fa-book"
-        }
-      ]
-    },
        {
       "title": "Towards a Theory of Software Developer Job Satisfaction and Perceived Productivity",
       "authors": [
@@ -152,6 +113,45 @@
         {
           "name": "DOI",
           "url": "https://doi.org/10.1109/TSE.2019.2944354",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
+         {
+      "title": "Fostering good coding practices through individual feedback and gamification: an industrial case study",
+      "authors": [
+        {
+          "first": "Matthieu",
+          "last": "Focault"
+        },
+        {
+          "first": "Xavier",
+          "last": "Blanc"
+        },
+        {
+          "first": "Jean-Rémy",
+          "last": "Falleri"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/journal/10664\">2019, Vol. 24, Issue 6</a>"
+      },
+      "year": "2019",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "https://rdcu.be/b17Tu",
+          "icon": "fa fa-file-pdf-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1007/s10664-019-09719-4",
           "icon": "fa fa-book"
         }
       ]
