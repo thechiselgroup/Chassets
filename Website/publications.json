@@ -619,6 +619,94 @@
         }
       ]
     },
+           {
+      "title": "Knowledge Building in Software Developer Communities",
+      "authors": [
+        {
+          "first": "Alexey",
+          "last": "Zagalsky"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Doctoral Disertation, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/theses/Zagalsky_Alexey_PhD_2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+          {
+      "title": "A Taxonomy of Software Bots: Towards a Deeper Understanding of Software Bot Characteristics",
+      "authors": [
+        {
+          "first": "Carlene",
+          "last": "Lebeuf"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/theses/Lebeuf_Carlene_MSc_2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+          {
+      "title": "Methodology Matters: Mapping Software Engineering Research Through a Sociotechnical Lens",
+      "authors": [
+        {
+          "first": "Courtney",
+          "last": "Williams"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/theses/Williams_Courtney_MSc_2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+          {
+      "title": "Towards Best Practices for Chatbots",
+      "authors": [
+        {
+          "first": "Maria Tania",
+          "last": "Ferman"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2018</a>"
+      },
+      "year": "2018",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/theses/Ferman_Maria_MSc_2018.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
        {
       "title": "Using a Visual Abstract as a Lens for Communicating and Promoting Design Science Research in Software Engineering",
       "authors": [
@@ -1048,7 +1136,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion",
+        "conference": "ACM Conference on Computer Supported Cooperative Work and Social Computing Companion",
         "abbrv": "<a href=\"https://cscw.acm.org/2016\">CSCW 2016</a>"
       },
       "year": "2016",
@@ -1062,6 +1150,28 @@
           "name": "DOI",
           "url": "http://dx.doi.org/10.1145/2818052.2869117",
           "icon": "fa fa-book"
+        }
+      ]
+    },
+           {
+      "title": "Regulation in Software Engineering",
+      "authors": [
+        {
+          "first": "Maryi",
+          "last": "Arciniegas Méndez"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Master's Thesis, University of Victoria",
+        "abbrv": "<a href=\"http://www.uvic.ca\">UVic 2016</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/theses/ArciniegasMendez_Maryi_MSc_2016",
+          "icon": "fa fa-file-pdf-o"
         }
       ]
     },
@@ -1273,7 +1383,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "18th ACM conference on Computer-Supported Cooperative Work and Social Computing",
+        "conference": "ACM conference on Computer-Supported Cooperative Work and Social Computing",
         "abbrv": "<a href=\"http://cscw.acm.org/2015/\">CSCW 2015</a>"
       },
       "year": "2015",
@@ -1366,7 +1476,7 @@
       "authors": [
         {
           "first": "Laura",
-          "last": "Macleod"
+          "last": "MacLeod"
         }
       ],
       "venue": {
@@ -1625,7 +1735,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "11th Working Conference on Mining Software Repositories",
+        "conference": "Working Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2014.msrconf.org/\">MSR 2014</a>"
       },
       "year": "2014",
@@ -1739,7 +1849,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "20th Working Conference on Reverse Engineering",
+        "conference": "Working Conference on Reverse Engineering",
         "abbrv": "<a href=\"http://wcre.wikidot.com/2013\">WCRE 2013</a>"
       },
       "year": "2013",
@@ -1849,7 +1959,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "10th Working Conference on Mining Software Repositories",
+        "conference": "Working Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
       },
       "year": "2013",
@@ -1888,7 +1998,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "10th Working Conference on Mining Software Repositories",
+        "conference": "Working Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
       },
       "year": "2013",
@@ -1918,7 +2028,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "10th Working Conference on Mining Software Repositories",
+        "conference": "Working Conference on Mining Software Repositories",
         "abbrv": "<a href=\"http://2013.msrconf.org/\">MSR 2013</a>"
       },
       "year": "2013",
@@ -2033,7 +2143,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "16th ACM Conference on Computer Supported Cooperative Work and Social Computing",
+        "conference": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
         "abbrv": "<a href=\"http://cscw.acm.org/2013/\">CSCW 2013</a>"
       },
       "year": "2013",
@@ -2098,7 +2208,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "19th Working Conference on Reverse Engineering",
+        "conference": "Working Conference on Reverse Engineering",
         "abbrv": "<a href=\"https://dibt.unimol.it/wcre2012/\">WCRE 2012</a>"
       },
       "year": "2012",
@@ -2327,7 +2437,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "14th European Conference on Software Maintenance and Reengineering",
+        "conference": "European Conference on Software Maintenance and Reengineering",
         "abbrv": "<a href=\"http://www.sait.escet.urjc.es/csmr2010/\">CSMR 2010</a>"
       },
       "year": "2010",
