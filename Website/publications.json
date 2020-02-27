@@ -645,7 +645,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "ACM/IEEE International Symposium on Empirical Software Engineering and Measurement",
+        "conference": "IEEE/ACM International Symposium on Empirical Software Engineering and Measurement",
         "abbrv": "<a href=\"http://www.scs.ryerson.ca/eseiw2017/ESEM/\">ESEM 2017</a>"
       },
       "year": "2017",
@@ -974,7 +974,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
       "year": "2016",
@@ -1009,7 +1009,7 @@
       ],
       "venue": {
         "format": "Awarded Distinguished Paper",
-        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2016.icse.cs.txstate.edu/\">ICSE 2016</a>"
       },
       "year": "2016",
@@ -1530,8 +1530,8 @@
       ],
       "venue": {
         "format": "",
-        "conference": "Future of Software Engineering track of <a href=\"http://2014.icse-conferences.org/\">ICSE 2014</a>",
-        "abbrv": "<a href=\"http://2014.icse-conferences.org/fose\">FOSE 2014</a>"
+        "conference": "Future of Software Engineering track, IEEE/ACM International Conference on Software Engineering</a>",
+        "abbrv": "<a href=\"http://2014.icse-conferences.org/fose\">ICSE FOSE 2014</a>"
       },
       "year": "2014",
       "links": [
@@ -1660,7 +1660,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
         "abbrv": "<a href=\"http://2014.icse-conferences.org/\">ICSE 2014</a>"
       },
       "year": "2014",
@@ -1991,8 +1991,8 @@
       ],
       "venue": {
         "format": "",
-        "conference": "New Ideas and Emerging Results track of <a href=\"http://2013.icse-conferences.org/\">ICSE 2013</a>",
-        "abbrv": "<a href=\"http://2013.icse-conferences.org/content/new-ideas-and-emerging-results-nier\">NIER 2013</a>"
+        "conference": "New Ideas and Emerging Results track, ACM/IEEE International Conference on Software Engineering",
+        "abbrv": "<a href=\"http://2013.icse-conferences.org/content/new-ideas-and-emerging-results-nier\">ICSE NIER 2013</a>"
       },
       "year": "2013",
       "links": [
@@ -2380,7 +2380,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
         "abbrv": "<a href=\"https://www.cs.uoregon.edu/events/icse2009/home/\">ICSE 2009</a>"
       },
       "year": "2009",
@@ -2411,7 +2411,7 @@
       ],
       "venue": {
         "format": "",
-        "conference": "ACM/IEEE International Conference on Software Engineering",
+        "conference": "IEEE/ACM International Conference on Software Engineering",
         "abbrv": "<a href=\"https://www.cs.uoregon.edu/events/icse2009/home/\">ICSE 2009</a>"
       },
       "year": "2009",
