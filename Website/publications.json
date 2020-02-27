@@ -1,5 +1,43 @@
 {
   "publications": [
+        {
+      "title": "An Unquantified Uncertainty Visualization Design Space During the Opioid Crisis",
+      "authors": [
+        {
+          "first": "Jorin",
+          "last": "Weatherston"
+        },
+        {
+          "first": "Charles",
+          "last": "Perin"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        },
+        {
+          "first": "Dennis K.",
+          "last": "Hore"
+        },
+         {
+          "first": "Bruce",
+          "last": "Wallace"
+        }
+      ],
+      "venue": {
+        "format": "Accepted",
+        "conference": "ACM CHI Conference on Human Factors in Computing Systems",
+        "abbrv": "<a href=\"https://chi2020.acm.org/\">CHI 2020</a>"
+      },
+      "year": "2020",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/weatherston-CHI2020.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
        {
       "title": "Publish or Perish: Questioning the Impact of Our Research on the Software Developer",
       "authors": [
@@ -29,44 +67,6 @@
           "name": "Slides",
           "url": "https://www.slideshare.net/mastorey/publish-or-perish-questioning-the-impact-of-our-research-on-the-software-developer",
           "icon": "fa fa-file-powerpoint-o"
-        }
-      ]
-    },
-        {
-      "title": "An Unquantified Uncertainty Visualization Design Space During the Opioid Crisis",
-      "authors": [
-        {
-          "first": "Jorin",
-          "last": "Weatherston"
-        },
-        {
-          "first": "Charles",
-          "last": "Perin"
-        },
-        {
-          "first": "Margaret-Anne",
-          "last": "Storey"
-        },
-        {
-          "first": "Dennis K.",
-          "last": "Hore"
-        },
-         {
-          "first": "Bruce",
-          "last": "Wallace"
-        }
-      ],
-      "venue": {
-        "format": "Accepted to",
-        "conference": "ACM CHI Conference on Human Factors in Computing Systems",
-        "abbrv": "<a href=\"https://chi2020.acm.org/\">CHI 2020</a>"
-      },
-      "year": "2020",
-      "links": [
-        {
-          "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/weatherston-CHI2020.pdf",
-          "icon": "fa fa-file-pdf-o"
         }
       ]
     },
@@ -609,7 +609,7 @@
       "links": [
         {
           "name": "PDF",
-          "url": "http://ieeexplore.ieee.org/abstract/document/7950877/",
+          "url": "http://chisel.cs.uvic.ca/pubs/macleod-IEEESoftware2017.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
