@@ -970,6 +970,33 @@
         }
       ]
     },
+      {
+      "title": "Lies, damned lies, and analytics: Why big data needs thick data",
+      "authors": [
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "Perspectives on Data Science for Software Engineering",
+        "abbrv": "<a href=\"https://www.sciencedirect.com/science/article/pii/B9780128042069000684\">2016, Morgan Kaufmann; Editors T. Menzies, L. Williams, T. Zimmermann</a>"
+      },
+      "year": "2016",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.sciencedirect.com/book/9780128042069/perspectives-on-data-science-for-software-engineering",
+          "icon": "fa fa-file-text-o"
+        },
+        {
+          "name": "DOI",
+          "url": "https://doi.org/10.1016/B978-0-12-804206-9.00068-4",
+          "icon": "fa fa-book"
+        }
+      ]
+    },
     {
       "title": "Disrupting Developer Productivity One Bot at a Time",
       "authors": [
@@ -2690,20 +2717,20 @@
         }
       ],
       "venue": {
-        "format": "XXXXX",
-        "conference": "XXXXX",
-        "abbrv": "<a href=\"https://XXXXX\">20XX, Vol. XX, Issue X</a>"
+        "format": "",
+        "conference": "Guide to Advanced Empirical Software Engineering",
+        "abbrv": "<a href=\"https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf\">2008, Springer London, London, UK; Editor F. Shull</a>"
       },
-      "year": "20XX",
+      "year": "2008",
       "links": [
         {
           "name": "PDF",
-          "url": "http://chisel.cs.uvic.ca/pubs/XXXXX",
+          "url": "https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5_11.pdf",
           "icon": "fa fa-file-pdf-o"
         },
         {
           "name": "DOI",
-          "url": "http://XXXXX",
+          "url": "https://doi.org/10.1007/978-1-84800-044-5_11",
           "icon": "fa fa-book"
         }
       ]
