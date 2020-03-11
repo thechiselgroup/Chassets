@@ -2758,6 +2758,36 @@
       ]
     },
     {
+      "title": "Presentations by Programmers for Programmers",
+      "authors": [
+        {
+          "first": "Li-Te",
+          "last": "Cheng"
+        },
+        {
+          "first": "Michael",
+          "last": "Desmond"
+        },
+        {
+          "first": "Margaret-Anne",
+          "last": "Storey"
+        }
+      ],
+      "venue": {
+        "format": "",
+        "conference": "International Conference on Software Engineering - Research Demonstration Track",
+        "abbrv": "<a href=\"http://web4.cs.ucl.ac.uk/icse07/\">ICSE 2007</a>"
+      },
+      "year": "2007",
+      "links": [
+        {
+          "name": "PDF",
+          "url": "http://chisel.cs.uvic.ca/pubs/cheng-ICSE2007.pdf",
+          "icon": "fa fa-file-pdf-o"
+        }
+      ]
+    },
+    {
       "title": "Working with Monster Traces: Building a Scalable, Usable, Sequence Viewer",
       "authors": [
         {
